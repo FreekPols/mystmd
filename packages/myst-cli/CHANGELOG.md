@@ -1,5 +1,20 @@
 # myst-cli
 
+## 1.8.3
+
+### Patch Changes
+
+- 33aa6ea: Upgrade windows should have the correct path
+- b7d8eef: Add emojis to strict-mode error report at end of build. Distinguishes between errors and
+  warnings for views without support for color.
+- Updated dependencies [6cc5e3e]
+- Updated dependencies [0b6ea12]
+  - myst-ext-grid@1.1.0
+  - myst-to-typst@0.0.37
+  - myst-parser@1.7.1
+  - myst-migrate@1.8.3
+  - myst-transforms@1.3.48
+
 ## 1.8.2
 
 ### Patch Changes
