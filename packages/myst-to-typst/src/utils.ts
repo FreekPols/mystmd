@@ -159,7 +159,7 @@ const mathReplacements: Record<string, string> = {
   ψ: 'psi',
   Ω: 'Omega',
   ω: 'omega',
-  '∂': 'diff',
+  '∂': 'partial',
   '∞': 'infty',
   '≈': 'approx',
   '≠': 'eq.not',
